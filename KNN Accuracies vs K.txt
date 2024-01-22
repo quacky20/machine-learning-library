@@ -1,0 +1,120 @@
+For K = 1
+0th prediction done
+600th prediction done
+1200th prediction done
+1800th prediction done
+2400th prediction done
+3000th prediction done
+3600th prediction done
+4200th prediction done
+4800th prediction done
+5400th prediction done
+Accuracy:  0.8955
+For K = 2
+0th prediction done
+600th prediction done
+1200th prediction done
+1800th prediction done
+2400th prediction done
+3000th prediction done
+3600th prediction done
+4200th prediction done
+4800th prediction done
+5400th prediction done
+Accuracy:  0.8805
+For K = 3
+0th prediction done
+600th prediction done
+1200th prediction done
+1800th prediction done
+2400th prediction done
+3000th prediction done
+3600th prediction done
+4200th prediction done
+4800th prediction done
+5400th prediction done
+Accuracy:  0.9175
+For K = 4
+0th prediction done
+600th prediction done
+1200th prediction done
+1800th prediction done
+2400th prediction done
+3000th prediction done
+3600th prediction done
+4200th prediction done
+4800th prediction done
+5400th prediction done
+Accuracy:  0.9155
+For K = 5
+0th prediction done
+600th prediction done
+1200th prediction done
+1800th prediction done
+2400th prediction done
+3000th prediction done
+3600th prediction done
+4200th prediction done
+4800th prediction done
+5400th prediction done
+Accuracy:  0.9328333333333333
+For K = 6
+0th prediction done
+600th prediction done
+1200th prediction done
+1800th prediction done
+2400th prediction done
+3000th prediction done
+3600th prediction done
+4200th prediction done
+4800th prediction done
+5400th prediction done
+Accuracy:  0.9253333333333333
+For K = 7
+0th prediction done
+600th prediction done
+1200th prediction done
+1800th prediction done
+2400th prediction done
+3000th prediction done
+3600th prediction done
+4200th prediction done
+4800th prediction done
+5400th prediction done
+Accuracy:  0.9351666666666667
+For K = 8
+0th prediction done
+600th prediction done
+1200th prediction done
+1800th prediction done
+2400th prediction done
+3000th prediction done
+3600th prediction done
+4200th prediction done
+4800th prediction done
+5400th prediction done
+Accuracy:  0.9318333333333333
+For K = 9
+0th prediction done
+600th prediction done
+1200th prediction done
+1800th prediction done
+2400th prediction done
+3000th prediction done
+3600th prediction done
+4200th prediction done
+4800th prediction done
+5400th prediction done
+Accuracy:  0.9365
+For K = 10
+0th prediction done
+600th prediction done
+1200th prediction done
+1800th prediction done
+2400th prediction done
+3000th prediction done
+3600th prediction done
+4200th prediction done
+4800th prediction done
+5400th prediction done
+Accuracy:  0.9343333333333333
